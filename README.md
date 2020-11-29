@@ -6,3 +6,10 @@
 - [О процессах](Documentation/Processes.md)
 - [О неденежной мотивации](Documentation/Non-monetary%20motivation.md)
 - [О перспективах](Documentation/Perspectives.md)
+
+# Список страниц
+- Авторизация
+- Главная страница (список идей)
+- Образец страницы идеи
+- Магазин
+- Форма для подачи новой идеи
