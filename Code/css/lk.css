@@ -1,0 +1,31 @@
+.text-center{
+    text-align: center;
+}
+
+.light{
+    height: 2rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;       
+}
+.col-light{
+    margin-top: 0.7em;
+}
+.content {
+    margin-left: 30rem;
+    margin-right: 30rem;
+    background-color: rgb(20, 104, 164) ;
+    border-radius: 5%;
+}
+
+
+#lkph{
+    border-radius: 5%;
+
+}
+::placeholder {
+    color: black;
+  }
+
+  input::first-line {
+    color: black;
+  }

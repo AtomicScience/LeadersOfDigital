@@ -1,0 +1,54 @@
+.navText {
+    font-size: 0.9rem;
+}
+
+.btn.btn-primary {
+    border-radius: 0.4rem;
+    border-color: #00b4e3;
+    background-color: #00b4e3;
+}
+
+.btn.btn-primary:hover {
+    border-color:#53D0F1;
+    background-color: #53D0F1;
+} 
+
+.btnText {
+    font-size: 0.8rem;
+}
+
+/* footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+} */
+
+.content {
+    margin: 1rem 7rem;
+    width: 80%;
+}
+
+.idea-list{
+    padding-top: 0.2rem;
+}
+
+.list-header {
+    background-color: #f1f1f1;
+}
+
+
+#tags {
+    background-color: #8fe3f8;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+  }
+#btn-tooltip{
+    margin-top: -5px;
+}
+
+.addBtn {
+    width: 100%;
+    margin-bottom: 1rem;
+}
